@@ -1,13 +1,16 @@
+![title](hero.png)
+
 # Crypto Trend Analyzer
 
 This project uses the CoinGecko API to collect data on cryptocurrency prices and trends. The data is then used to create charts and graphs using NumPy, Matplotlib, Pandas, and Tableau.
 
 # Requirements
 
-- Python 3.6+
-- NumPy
-- Matplotlib
-- Pandas
+- python 3.6+
+- numPy
+- matplotlib
+- pandas
+- mplfinance
 
 
 # Instructions
